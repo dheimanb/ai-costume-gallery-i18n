@@ -1,3 +1,5 @@
 meta/download.pid
 meta/download_console.err
 meta/download_console.log
+dist/
+generated/
