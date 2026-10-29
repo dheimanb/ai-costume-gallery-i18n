@@ -1,0 +1,94 @@
+{
+  "done_ids": [
+    "CAT-01",
+    "CAT-02",
+    "CAT-03",
+    "CAT-04",
+    "CAT-05",
+    "CAT-06",
+    "CAT-07",
+    "CAT-08"
+  ],
+  "results": {
+    "CAT-01": {
+      "id": "CAT-01",
+      "term_ja": "春",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "spring",
+      "zh-CN": "春天",
+      "zh-TW": "春天",
+      "flag": ""
+    },
+    "CAT-02": {
+      "id": "CAT-02",
+      "term_ja": "夏",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "summer",
+      "zh-CN": "夏天",
+      "zh-TW": "夏天",
+      "flag": ""
+    },
+    "CAT-04": {
+      "id": "CAT-04",
+      "term_ja": "冬",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "winter",
+      "zh-CN": "冬季",
+      "zh-TW": "冬季",
+      "flag": ""
+    },
+    "CAT-05": {
+      "id": "CAT-05",
+      "term_ja": "ランジェリー",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "lingerie",
+      "zh-CN": "内衣",
+      "zh-TW": "內衣",
+      "flag": ""
+    },
+    "CAT-06": {
+      "id": "CAT-06",
+      "term_ja": "パーティ",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "party",
+      "zh-CN": "派对",
+      "zh-TW": "派對",
+      "flag": ""
+    },
+    "CAT-07": {
+      "id": "CAT-07",
+      "term_ja": "水着",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "swimsuit",
+      "zh-CN": "泳装",
+      "zh-TW": "泳裝",
+      "flag": ""
+    },
+    "CAT-08": {
+      "id": "CAT-08",
+      "term_ja": "セクシー",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "sexy",
+      "zh-CN": "性感",
+      "zh-TW": "性感",
+      "flag": ""
+    },
+    "CAT-03": {
+      "id": "CAT-03",
+      "term_ja": "秋",
+      "category": "カテゴリ",
+      "is_en_keyword": "false",
+      "en": "",
+      "zh-CN": "",
+      "zh-TW": "",
+      "flag": "uncertain_en"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+id,term_ja,category,is_en_keyword
+CAT-01,春,カテゴリ,false
+CAT-02,夏,カテゴリ,false
+CAT-03,秋,カテゴリ,false
+CAT-04,冬,カテゴリ,false
+CAT-05,ランジェリー,カテゴリ,false
+CAT-06,パーティ,カテゴリ,false
+CAT-07,水着,カテゴリ,false
+CAT-08,セクシー,カテゴリ,false

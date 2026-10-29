@@ -1,0 +1,20 @@
+{
+  "task": "ja-trilingual",
+  "time": "2026-10-30 02:40:42 HKT",
+  "model": "qwen3:8b",
+  "base": "http://127.0.0.1:11434",
+  "input": "E:\\costume-staging\\i18n\\task1\\task1-input.csv",
+  "output": "E:\\costume-staging\\i18n\\task1\\task1-output.csv",
+  "input_rows": 8,
+  "output_rows": 8,
+  "errors_during_run": 0,
+  "elapsed_sec": 0.65,
+  "validate_pass": true,
+  "validate_errors": [],
+  "flagged_rows": 1,
+  "sample_en": [
+    "spring",
+    "summer",
+    ""
+  ]
+}
