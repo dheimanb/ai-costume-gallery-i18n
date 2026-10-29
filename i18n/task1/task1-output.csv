@@ -1,7 +1,7 @@
 id,term_ja,category,is_en_keyword,en,zh-CN,zh-TW,flag
-CAT-01,春,カテゴリ,false,spring,春天,春天,
-CAT-02,夏,カテゴリ,false,summer,夏天,夏天,
-CAT-03,秋,カテゴリ,false,,,,uncertain_en
+CAT-01,春,カテゴリ,false,spring,春季,春季,
+CAT-02,夏,カテゴリ,false,summer,夏季,夏季,
+CAT-03,秋,カテゴリ,false,autumn,秋季,秋季,
 CAT-04,冬,カテゴリ,false,winter,冬季,冬季,
 CAT-05,ランジェリー,カテゴリ,false,lingerie,内衣,內衣,
 CAT-06,パーティ,カテゴリ,false,party,派对,派對,
