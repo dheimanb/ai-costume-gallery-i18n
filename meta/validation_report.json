@@ -1,0 +1,844 @@
+{
+  "items_extracted": 1407,
+  "jobs_expected": 4221,
+  "status_counts": {
+    "ok": 4221
+  },
+  "total_bytes": 1525033375,
+  "total_MB": 1525.0,
+  "total_GiB": 1.42,
+  "per_folder": {
+    "thumbs": {
+      "count": 1407,
+      "bytes": 10296706
+    },
+    "img": {
+      "count": 1407,
+      "bytes": 118995924
+    },
+    "png": {
+      "count": 1407,
+      "bytes": 1395740745
+    }
+  },
+  "sample_dimensions": {
+    "thumbs": [
+      {
+        "id": "SPR-0015",
+        "file": "thumbs/SPR-0015.webp",
+        "size": 4284,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0059",
+        "file": "thumbs/SPR-0059.webp",
+        "size": 5792,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0062",
+        "file": "thumbs/SPR-0062.webp",
+        "size": 4764,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0069",
+        "file": "thumbs/SPR-0069.webp",
+        "size": 5780,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0073",
+        "file": "thumbs/SPR-0073.webp",
+        "size": 4996,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0215",
+        "file": "thumbs/SPR-0215.webp",
+        "size": 6470,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0230",
+        "file": "thumbs/SPR-0230.webp",
+        "size": 5892,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SPR-0254",
+        "file": "thumbs/SPR-0254.webp",
+        "size": 7442,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SUM-0175",
+        "file": "thumbs/SUM-0175.webp",
+        "size": 4560,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SUM-0233",
+        "file": "thumbs/SUM-0233.webp",
+        "size": 5912,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SUM-0098",
+        "file": "thumbs/SUM-0098.webp",
+        "size": 7092,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SUM-0139",
+        "file": "thumbs/SUM-0139.webp",
+        "size": 7904,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SUM-0143",
+        "file": "thumbs/SUM-0143.webp",
+        "size": 7798,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SUM-0149",
+        "file": "thumbs/SUM-0149.webp",
+        "size": 15122,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "AUT-0009",
+        "file": "thumbs/AUT-0009.webp",
+        "size": 8728,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "AUT-0034",
+        "file": "thumbs/AUT-0034.webp",
+        "size": 9028,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "AUT-0097",
+        "file": "thumbs/AUT-0097.webp",
+        "size": 7418,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "AUT-0103",
+        "file": "thumbs/AUT-0103.webp",
+        "size": 9194,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "WIN-0147",
+        "file": "thumbs/WIN-0147.webp",
+        "size": 7082,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "WIN-0152",
+        "file": "thumbs/WIN-0152.webp",
+        "size": 9190,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "WIN-0211",
+        "file": "thumbs/WIN-0211.webp",
+        "size": 6116,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "LNG-0178",
+        "file": "thumbs/LNG-0178.webp",
+        "size": 4534,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "LNG-0056",
+        "file": "thumbs/LNG-0056.webp",
+        "size": 11838,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "LNG-0089",
+        "file": "thumbs/LNG-0089.webp",
+        "size": 4432,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "PTY-0047",
+        "file": "thumbs/PTY-0047.webp",
+        "size": 8322,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "PTY-0052",
+        "file": "thumbs/PTY-0052.webp",
+        "size": 8500,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SWM-0020",
+        "file": "thumbs/SWM-0020.webp",
+        "size": 11256,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SXY-0050",
+        "file": "thumbs/SXY-0050.webp",
+        "size": 6894,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SXY-0075",
+        "file": "thumbs/SXY-0075.webp",
+        "size": 6510,
+        "dims": [
+          360,
+          540
+        ]
+      },
+      {
+        "id": "SXY-0136",
+        "file": "thumbs/SXY-0136.webp",
+        "size": 9108,
+        "dims": [
+          360,
+          540
+        ]
+      }
+    ],
+    "img": [
+      {
+        "id": "SPR-0015",
+        "file": "img/SPR-0015.webp",
+        "size": 46610,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0059",
+        "file": "img/SPR-0059.webp",
+        "size": 64002,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0062",
+        "file": "img/SPR-0062.webp",
+        "size": 48874,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0069",
+        "file": "img/SPR-0069.webp",
+        "size": 67218,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0073",
+        "file": "img/SPR-0073.webp",
+        "size": 63332,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0215",
+        "file": "img/SPR-0215.webp",
+        "size": 70266,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0230",
+        "file": "img/SPR-0230.webp",
+        "size": 70752,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0254",
+        "file": "img/SPR-0254.webp",
+        "size": 104330,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0175",
+        "file": "img/SUM-0175.webp",
+        "size": 46956,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0233",
+        "file": "img/SUM-0233.webp",
+        "size": 72502,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0098",
+        "file": "img/SUM-0098.webp",
+        "size": 77122,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0139",
+        "file": "img/SUM-0139.webp",
+        "size": 86580,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0143",
+        "file": "img/SUM-0143.webp",
+        "size": 104636,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0149",
+        "file": "img/SUM-0149.webp",
+        "size": 139308,
+        "dims": [
+          1254,
+          1882
+        ]
+      },
+      {
+        "id": "AUT-0009",
+        "file": "img/AUT-0009.webp",
+        "size": 87080,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "AUT-0034",
+        "file": "img/AUT-0034.webp",
+        "size": 108908,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "AUT-0097",
+        "file": "img/AUT-0097.webp",
+        "size": 100210,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "AUT-0103",
+        "file": "img/AUT-0103.webp",
+        "size": 106120,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "WIN-0147",
+        "file": "img/WIN-0147.webp",
+        "size": 79476,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "WIN-0152",
+        "file": "img/WIN-0152.webp",
+        "size": 102686,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "WIN-0211",
+        "file": "img/WIN-0211.webp",
+        "size": 68202,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "LNG-0178",
+        "file": "img/LNG-0178.webp",
+        "size": 58670,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "LNG-0056",
+        "file": "img/LNG-0056.webp",
+        "size": 124194,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "LNG-0089",
+        "file": "img/LNG-0089.webp",
+        "size": 59518,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "PTY-0047",
+        "file": "img/PTY-0047.webp",
+        "size": 102468,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "PTY-0052",
+        "file": "img/PTY-0052.webp",
+        "size": 82618,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SWM-0020",
+        "file": "img/SWM-0020.webp",
+        "size": 129114,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SXY-0050",
+        "file": "img/SXY-0050.webp",
+        "size": 80424,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SXY-0075",
+        "file": "img/SXY-0075.webp",
+        "size": 66952,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SXY-0136",
+        "file": "img/SXY-0136.webp",
+        "size": 81842,
+        "dims": [
+          1366,
+          2048
+        ]
+      }
+    ],
+    "png": [
+      {
+        "id": "SPR-0015",
+        "file": "png/SPR-0015.png",
+        "size": 761187,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0059",
+        "file": "png/SPR-0059.png",
+        "size": 795648,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0062",
+        "file": "png/SPR-0062.png",
+        "size": 672949,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0069",
+        "file": "png/SPR-0069.png",
+        "size": 989007,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0073",
+        "file": "png/SPR-0073.png",
+        "size": 770431,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0215",
+        "file": "png/SPR-0215.png",
+        "size": 956060,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0230",
+        "file": "png/SPR-0230.png",
+        "size": 910519,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SPR-0254",
+        "file": "png/SPR-0254.png",
+        "size": 1175155,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0175",
+        "file": "png/SUM-0175.png",
+        "size": 679706,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0233",
+        "file": "png/SUM-0233.png",
+        "size": 1037713,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0098",
+        "file": "png/SUM-0098.png",
+        "size": 821078,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0139",
+        "file": "png/SUM-0139.png",
+        "size": 903145,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0143",
+        "file": "png/SUM-0143.png",
+        "size": 1217252,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SUM-0149",
+        "file": "png/SUM-0149.png",
+        "size": 1202532,
+        "dims": [
+          1254,
+          1882
+        ]
+      },
+      {
+        "id": "AUT-0009",
+        "file": "png/AUT-0009.png",
+        "size": 1056722,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "AUT-0034",
+        "file": "png/AUT-0034.png",
+        "size": 1202595,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "AUT-0097",
+        "file": "png/AUT-0097.png",
+        "size": 1185823,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "AUT-0103",
+        "file": "png/AUT-0103.png",
+        "size": 1203052,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "WIN-0147",
+        "file": "png/WIN-0147.png",
+        "size": 960162,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "WIN-0152",
+        "file": "png/WIN-0152.png",
+        "size": 1187435,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "WIN-0211",
+        "file": "png/WIN-0211.png",
+        "size": 1072873,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "LNG-0178",
+        "file": "png/LNG-0178.png",
+        "size": 681128,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "LNG-0056",
+        "file": "png/LNG-0056.png",
+        "size": 1429284,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "LNG-0089",
+        "file": "png/LNG-0089.png",
+        "size": 725408,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "PTY-0047",
+        "file": "png/PTY-0047.png",
+        "size": 1033021,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "PTY-0052",
+        "file": "png/PTY-0052.png",
+        "size": 1028895,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SWM-0020",
+        "file": "png/SWM-0020.png",
+        "size": 1275747,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SXY-0050",
+        "file": "png/SXY-0050.png",
+        "size": 922294,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SXY-0075",
+        "file": "png/SXY-0075.png",
+        "size": 806810,
+        "dims": [
+          1366,
+          2048
+        ]
+      },
+      {
+        "id": "SXY-0136",
+        "file": "png/SXY-0136.png",
+        "size": 796690,
+        "dims": [
+          1366,
+          2048
+        ]
+      }
+    ]
+  },
+  "fail_count": 0,
+  "local_model_used": false
+}

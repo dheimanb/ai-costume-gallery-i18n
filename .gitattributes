@@ -1,0 +1,4 @@
+# keep every file byte-identical to the staged snapshot
+* -text
+*.png binary
+*.webp binary

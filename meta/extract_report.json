@@ -1,0 +1,58 @@
+{
+  "total_meta": 1407,
+  "len_D": 1407,
+  "cats": [
+    "春",
+    "夏",
+    "秋",
+    "冬",
+    "ランジェリー",
+    "パーティ",
+    "水着",
+    "セクシー"
+  ],
+  "counts": {
+    "春": 215,
+    "夏": 254,
+    "秋": 244,
+    "冬": 253,
+    "ランジェリー": 199,
+    "パーティ": 48,
+    "水着": 54,
+    "セクシー": 140
+  },
+  "keys": [
+    "id",
+    "カテゴリ",
+    "キーワード",
+    "サムネ",
+    "画像",
+    "原寸"
+  ],
+  "sample0": {
+    "id": "SPR-0001",
+    "カテゴリ": "春",
+    "キーワード": "ivory frill knit denim mini skirt coat socks white sneakers",
+    "サムネ": "thumbs/SPR-0001.webp",
+    "画像": "img/SPR-0001.webp",
+    "原寸": "png/SPR-0001.png"
+  },
+  "sample_last": {
+    "id": "SXY-0159",
+    "カテゴリ": "セクシー",
+    "キーワード": "mint velvet mini dress stockings heels gloves",
+    "サムネ": "thumbs/SXY-0159.webp",
+    "画像": "img/SXY-0159.webp",
+    "原寸": "png/SXY-0159.png"
+  },
+  "id_prefix_counts": {
+    "SPR": 215,
+    "SUM": 254,
+    "AUT": 244,
+    "WIN": 253,
+    "LNG": 199,
+    "PTY": 48,
+    "SWM": 54,
+    "SXY": 140
+  }
+}

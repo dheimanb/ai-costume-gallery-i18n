@@ -1,0 +1,33 @@
+2026-10-30 01:56:54 start jobs=4221 workers=6
+2026-10-30 02:04:27 start_v2 jobs=4221 workers=8
+2026-10-30 02:06:56 start_v3 jobs=4221 workers=6
+2026-10-30 02:06:58 progress 185/4221 ok=131 skip=54 fail=0 MB=41.8 rate=92.50/s
+2026-10-30 02:07:00 progress 328/4221 ok=274 skip=54 fail=0 MB=88.3 rate=82.00/s
+2026-10-30 02:07:02 progress 472/4221 ok=418 skip=54 fail=0 MB=140.1 rate=78.67/s
+2026-10-30 02:07:04 progress 611/4221 ok=557 skip=54 fail=0 MB=188.3 rate=76.38/s
+2026-10-30 02:07:06 progress 763/4221 ok=709 skip=54 fail=0 MB=239.8 rate=76.18/s
+2026-10-30 02:07:08 progress 900/4221 ok=846 skip=54 fail=0 MB=290.7 rate=74.90/s
+2026-10-30 02:07:10 progress 1041/4221 ok=987 skip=54 fail=0 MB=338.9 rate=74.27/s
+2026-10-30 02:07:12 progress 1190/4221 ok=1136 skip=54 fail=0 MB=390.7 rate=74.30/s
+2026-10-30 02:07:14 progress 1343/4221 ok=1289 skip=54 fail=0 MB=442.6 rate=74.54/s
+2026-10-30 02:07:16 progress 1489/4221 ok=1435 skip=54 fail=0 MB=497.5 rate=74.33/s
+2026-10-30 02:07:18 progress 1634/4221 ok=1580 skip=54 fail=0 MB=553.8 rate=74.16/s
+2026-10-30 02:07:20 progress 1774/4221 ok=1720 skip=54 fail=0 MB=609.0 rate=73.82/s
+2026-10-30 02:07:22 progress 1912/4221 ok=1858 skip=54 fail=0 MB=662.4 rate=73.45/s
+2026-10-30 02:07:24 progress 2061/4221 ok=2007 skip=54 fail=0 MB=716.7 rate=73.52/s
+2026-10-30 02:07:26 progress 2202/4221 ok=2148 skip=54 fail=0 MB=769.2 rate=73.32/s
+2026-10-30 02:07:28 progress 2340/4221 ok=2286 skip=54 fail=0 MB=824.8 rate=73.05/s
+2026-10-30 02:07:30 progress 2487/4221 ok=2433 skip=54 fail=0 MB=883.8 rate=73.05/s
+2026-10-30 02:07:32 progress 2631/4221 ok=2577 skip=54 fail=0 MB=943.9 rate=72.99/s
+2026-10-30 02:07:34 progress 2779/4221 ok=2725 skip=54 fail=0 MB=1002.4 rate=73.04/s
+2026-10-30 02:07:36 progress 2924/4221 ok=2870 skip=54 fail=0 MB=1057.6 rate=73.01/s
+2026-10-30 02:07:38 progress 3078/4221 ok=3024 skip=54 fail=0 MB=1103.5 rate=73.20/s
+2026-10-30 02:07:40 progress 3234/4221 ok=3180 skip=54 fail=0 MB=1154.5 rate=73.42/s
+2026-10-30 02:07:42 progress 3390/4221 ok=3336 skip=54 fail=0 MB=1210.7 rate=73.59/s
+2026-10-30 02:07:44 progress 3531/4221 ok=3477 skip=54 fail=0 MB=1261.6 rate=73.47/s
+2026-10-30 02:07:46 progress 3665/4221 ok=3611 skip=54 fail=0 MB=1309.4 rate=73.21/s
+2026-10-30 02:07:48 progress 3809/4221 ok=3755 skip=54 fail=0 MB=1366.8 rate=73.16/s
+2026-10-30 02:07:50 progress 3965/4221 ok=3911 skip=54 fail=0 MB=1419.2 rate=73.34/s
+2026-10-30 02:07:52 progress 4113/4221 ok=4059 skip=54 fail=0 MB=1470.3 rate=73.34/s
+2026-10-30 02:07:54 progress 4221/4221 ok=4167 skip=54 fail=0 MB=1507.6 rate=72.68/s
+2026-10-30 02:07:54 done ok=4167 skip=54 fail=0 stop_reason=None
