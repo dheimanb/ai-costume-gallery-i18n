@@ -1,0 +1,780 @@
+{
+  "done_ids": [
+    "T001",
+    "T002",
+    "T003",
+    "T004",
+    "T005",
+    "T006",
+    "T007",
+    "T008",
+    "T009",
+    "T010",
+    "T011",
+    "T012",
+    "T013",
+    "T014",
+    "T015",
+    "T016",
+    "T017",
+    "T018",
+    "T019",
+    "T020",
+    "T021",
+    "T022",
+    "T023",
+    "T024",
+    "T025",
+    "T026",
+    "T027",
+    "T028",
+    "T029",
+    "T030",
+    "T031",
+    "T032",
+    "T033",
+    "T034",
+    "T035",
+    "T036",
+    "T037",
+    "T038",
+    "T039",
+    "T040",
+    "T041",
+    "T042",
+    "T043",
+    "T044",
+    "T045",
+    "T046",
+    "T047",
+    "T048",
+    "T049",
+    "T050",
+    "T051",
+    "T052",
+    "T053",
+    "T054",
+    "T055",
+    "T056",
+    "T057",
+    "T058",
+    "T059",
+    "T060",
+    "T061",
+    "T062",
+    "T063",
+    "T064",
+    "T065",
+    "T066",
+    "T067",
+    "T068",
+    "T069",
+    "T070",
+    "T071",
+    "T072",
+    "T073",
+    "T074",
+    "T075",
+    "T076",
+    "T077",
+    "T078",
+    "T079",
+    "T080",
+    "T081",
+    "T082",
+    "T083",
+    "T084",
+    "T085",
+    "T086"
+  ],
+  "results": {
+    "T001": {
+      "id": "T001",
+      "token": "apron",
+      "examples": "black dress red ribbon white frill apron stockings headband | mini dress white frill apron lace stockings headband | navy mini dress white frill apron lace stockings headband",
+      "zh-CN": "围裙",
+      "zh-TW": "圍裙",
+      "flag": ""
+    },
+    "T002": {
+      "id": "T002",
+      "token": "bag",
+      "examples": "beige mini dress jacket ivory socks white sneakers bag ribbon | beige floral midi dress white socks sandals mini bag ribbon | beige knit dress jacket white socks pumps bag gold necklace",
+      "zh-CN": "包",
+      "zh-TW": "包",
+      "flag": ""
+    },
+    "T003": {
+      "id": "T003",
+      "token": "beanie",
+      "examples": "black knit sweater wool pants suede boots fur bag beanie | grey knit dress black tights boots mini bag beanie | beige knit grey corduroy skirt brown leather boots bag beanie",
+      "zh-CN": "毛线帽",
+      "zh-TW": "毛線帽",
+      "flag": ""
+    },
+    "T004": {
+      "id": "T004",
+      "token": "beige",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | beige mini dress jacket ivory socks white sneakers bag ribbon | beige floral midi dress white socks sandals mini bag ribbon",
+      "zh-CN": "米色",
+      "zh-TW": "米色",
+      "flag": ""
+    },
+    "T005": {
+      "id": "T005",
+      "token": "belt",
+      "examples": "blue grey denim jeans belt black loafers leather bag | black denim jeans belt loafers leather bag | blue white shirt black jeans leather belt tote sunglasses",
+      "zh-CN": "腰带",
+      "zh-TW": "腰帶",
+      "flag": ""
+    },
+    "T006": {
+      "id": "T006",
+      "token": "beret",
+      "examples": "blouse navy pants beige coat socks boots mini bag beret | knit burgundy pants socks boots bag beret | red pants black tights brown leather boots mini bag beret",
+      "zh-CN": "贝雷帽",
+      "zh-TW": "貝雷帽",
+      "flag": ""
+    },
+    "T007": {
+      "id": "T007",
+      "token": "black",
+      "examples": "navy cardigan denim jeans black loafers leather bag silver necklace | khaki shirt jacket white black pants sneakers corduroy bag | beige shirt dress black boots leather bag silver necklace",
+      "zh-CN": "黑色",
+      "zh-TW": "黑色",
+      "flag": ""
+    },
+    "T008": {
+      "id": "T008",
+      "token": "blouse",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | white blouse mint green midi skirt cardigan pumps bag ribbon | green blouse ribbon ivory mini skirt shorts denim jacket white",
+      "zh-CN": "衬衫",
+      "zh-TW": "襯衫",
+      "flag": ""
+    },
+    "T009": {
+      "id": "T009",
+      "token": "blue",
+      "examples": "blue ribbon chiffon camisole pink midi skirt sandals mini tote | blue lace camisole cardigan beige denim pants pumps bag ribbon | blue ribbon chiffon camisole midi skirt beige mini bag choker",
+      "zh-CN": "蓝色",
+      "zh-TW": "藍色",
+      "flag": ""
+    },
+    "T010": {
+      "id": "T010",
+      "token": "boots",
+      "examples": "beige shirt dress black boots leather bag silver necklace | black shirt tulle skirt orange boots leather bag | beige coat black turtleneck pleated mini skirt tights leather boots",
+      "zh-CN": "短靴",
+      "zh-TW": "短靴",
+      "flag": ""
+    },
+    "T011": {
+      "id": "T011",
+      "token": "bra",
+      "examples": "white bra blue black bag | navy bra briefs tulle stockings satin heels necklace | black bra briefs lace belt stockings heels",
+      "zh-CN": "内衣",
+      "zh-TW": "內衣",
+      "flag": ""
+    },
+    "T012": {
+      "id": "T012",
+      "token": "briefs",
+      "examples": "navy bra briefs tulle stockings satin heels necklace | black bra briefs lace belt stockings heels | ivory bra briefs lace black velvet ribbon stockings heels choker",
+      "zh-CN": "比基尼",
+      "zh-TW": "比基尼",
+      "flag": ""
+    },
+    "T013": {
+      "id": "T013",
+      "token": "brown",
+      "examples": "ivory cardigan white camisole black pants brown leather loafers tote | knit vest white shirt beige brown suede loafers mini bag | brown knit blue shirt black pleated midi skirt loafers white",
+      "zh-CN": "棕色",
+      "zh-TW": "棕色",
+      "flag": ""
+    },
+    "T014": {
+      "id": "T014",
+      "token": "burgundy",
+      "examples": "burgundy knit cardigan brown jacket black pants ribbon white leather | burgundy blouse brown denim pants boots mini bag gold necklace | burgundy knit pants black tights boots brown bag scarf",
+      "zh-CN": "勃艮第红",
+      "zh-TW": "勃艮第紅",
+      "flag": ""
+    },
+    "T015": {
+      "id": "T015",
+      "token": "camisole",
+      "examples": "yellow floral camisole cardigan pink pleated mini skirt coat ivory | blue ribbon chiffon camisole pink midi skirt sandals mini tote | beige floral camisole cardigan white pants pumps mini bag necklace",
+      "zh-CN": "罩衫",
+      "zh-TW": "罩衫",
+      "flag": ""
+    },
+    "T016": {
+      "id": "T016",
+      "token": "cardigan",
+      "examples": "yellow floral camisole cardigan pink pleated mini skirt coat ivory | beige floral camisole cardigan white pants pumps mini bag necklace | blue lace camisole cardigan beige denim pants pumps bag ribbon",
+      "zh-CN": "开衫",
+      "zh-TW": "開衫",
+      "flag": ""
+    },
+    "T017": {
+      "id": "T017",
+      "token": "chiffon",
+      "examples": "blue ribbon chiffon camisole pink midi skirt sandals mini tote | blue ribbon chiffon camisole midi skirt beige mini bag choker | blue ribbon chiffon camisole pink pleated mini skirt white socks",
+      "zh-CN": "",
+      "zh-TW": "",
+      "flag": "empty_fields"
+    },
+    "T018": {
+      "id": "T018",
+      "token": "choker",
+      "examples": "ribbon shirt dress white socks beige mini bag choker | blue ribbon chiffon camisole midi skirt beige mini bag choker | ivory mini dress cardigan white socks beige ribbon bag choker",
+      "zh-CN": "锁骨链",
+      "zh-TW": "鎖骨鏈",
+      "flag": ""
+    },
+    "T019": {
+      "id": "T019",
+      "token": "coat",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | yellow floral camisole cardigan pink pleated mini skirt coat ivory | green mini skirt shorts coat ivory socks sandals bag necklace",
+      "zh-CN": "大衣",
+      "zh-TW": "大衣",
+      "flag": ""
+    },
+    "T020": {
+      "id": "T020",
+      "token": "corduroy",
+      "examples": "khaki shirt jacket white black pants sneakers corduroy bag | knit cardigan camisole ivory corduroy pants brown bag gold necklace | ivory knit corduroy pants wool coat mini bag scarf",
+      "zh-CN": "粗花呢",
+      "zh-TW": "粗花呢",
+      "flag": ""
+    },
+    "T021": {
+      "id": "T021",
+      "token": "corset",
+      "examples": "mint green frill corset dress jacket beige tights sandals bag | beige frill corset dress white socks sneakers mini ribbon bag | pink frill corset dress jacket ivory socks beige ribbon bag",
+      "zh-CN": "束腰",
+      "zh-TW": "束腰",
+      "flag": ""
+    },
+    "T022": {
+      "id": "T022",
+      "token": "cream",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | cream floral midi dress beige tights ribbon satin choker | cream floral camisole cardigan ivory pants white socks beige ribbon",
+      "zh-CN": "奶油色",
+      "zh-TW": "奶油色",
+      "flag": ""
+    },
+    "T023": {
+      "id": "T023",
+      "token": "denim",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | yellow ribbon shirt dress denim jacket ivory socks white sneakers | blue lace camisole cardigan beige denim pants pumps bag ribbon",
+      "zh-CN": "牛仔",
+      "zh-TW": "牛仔",
+      "flag": ""
+    },
+    "T024": {
+      "id": "T024",
+      "token": "dress",
+      "examples": "beige mini dress jacket ivory socks white sneakers bag ribbon | beige floral midi dress white socks sandals mini bag ribbon | beige knit dress jacket white socks pumps bag gold necklace",
+      "zh-CN": "连衣裙",
+      "zh-TW": "連衣裙",
+      "flag": ""
+    },
+    "T025": {
+      "id": "T025",
+      "token": "floral",
+      "examples": "yellow floral camisole cardigan pink pleated mini skirt coat ivory | beige floral midi dress white socks sandals mini bag ribbon | beige floral camisole cardigan white pants pumps mini bag necklace",
+      "zh-CN": "花卉",
+      "zh-TW": "花卉",
+      "flag": ""
+    },
+    "T026": {
+      "id": "T026",
+      "token": "frill",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | blue frill knit ivory skirt beige tights pumps satin ribbon | mint green frill corset dress jacket beige tights sandals bag",
+      "zh-CN": "荷叶边",
+      "zh-TW": "荷葉邊",
+      "flag": ""
+    },
+    "T027": {
+      "id": "T027",
+      "token": "fur",
+      "examples": "beige knit green corduroy skirt fur jacket boots bag beret | beige knit red pants fur jacket brown leather boots bag | ivory fur knit cardigan pants jacket suede boots mini bag",
+      "zh-CN": "毛皮",
+      "zh-TW": "毛皮",
+      "flag": ""
+    },
+    "T028": {
+      "id": "T028",
+      "token": "gloves",
+      "examples": "mint satin gloves heels | blue mini dress tulle skirt satin gloves heels | black mini dress tulle skirt satin gloves heels",
+      "zh-CN": "手套",
+      "zh-TW": "手套",
+      "flag": ""
+    },
+    "T029": {
+      "id": "T029",
+      "token": "gold",
+      "examples": "beige knit dress jacket white socks pumps bag gold necklace | green ribbon shirt dress beige tights sandals mini bag gold | ivory mini dress white socks sneakers satin ribbon gold necklace",
+      "zh-CN": "金色",
+      "zh-TW": "金色",
+      "flag": ""
+    },
+    "T030": {
+      "id": "T030",
+      "token": "green",
+      "examples": "green ribbon shirt dress beige tights sandals mini bag gold | green mini skirt shorts coat ivory socks sandals bag necklace | white blouse mint green midi skirt cardigan pumps bag ribbon",
+      "zh-CN": "绿色",
+      "zh-TW": "綠色",
+      "flag": ""
+    },
+    "T031": {
+      "id": "T031",
+      "token": "grey",
+      "examples": "blue grey denim jeans belt black loafers leather bag | navy grey pleated mini skirt shorts white socks black tights | black shirt grey jeans sandals bag silver choker",
+      "zh-CN": "灰色",
+      "zh-TW": "灰色",
+      "flag": ""
+    },
+    "T032": {
+      "id": "T032",
+      "token": "hat",
+      "examples": "ribbon shirt dress ivory socks white sneakers bag hat | green knit dress white socks beige ribbon satin hat | beige frill knit pleated midi skirt sandals bag hat",
+      "zh-CN": "帽子",
+      "zh-TW": "帽子",
+      "flag": ""
+    },
+    "T033": {
+      "id": "T033",
+      "token": "headband",
+      "examples": "red knit dress socks boots mini bag fur headband | knit mini dress brown tights boots leather bag fur headband | black velvet camisole red pants fur boots bag headband",
+      "zh-CN": "头带",
+      "zh-TW": "頭帶",
+      "flag": ""
+    },
+    "T034": {
+      "id": "T034",
+      "token": "heels",
+      "examples": "ivory satin blouse denim jeans black heels leather bag | brown cardigan black satin skirt heels leather | black cardigan satin skirt heels leather",
+      "zh-CN": "高跟鞋",
+      "zh-TW": "高跟鞋",
+      "flag": ""
+    },
+    "T035": {
+      "id": "T035",
+      "token": "hoodie",
+      "examples": "grey hoodie denim jeans black sneakers bag | khaki hoodie black denim jeans white sneakers bag | grey hoodie beige jacket denim jeans black sneakers tote",
+      "zh-CN": "连帽衫",
+      "zh-TW": "連帽衫",
+      "flag": ""
+    },
+    "T036": {
+      "id": "T036",
+      "token": "ivory",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | yellow floral camisole cardigan pink pleated mini skirt coat ivory | cream blouse ribbon ivory mini skirt shorts jacket beige tights",
+      "zh-CN": "象牙白",
+      "zh-TW": "象牙白",
+      "flag": ""
+    },
+    "T037": {
+      "id": "T037",
+      "token": "jacket",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | beige mini dress jacket ivory socks white sneakers bag ribbon | beige knit dress jacket white socks pumps bag gold necklace",
+      "zh-CN": "夹克",
+      "zh-TW": "夾克",
+      "flag": ""
+    },
+    "T038": {
+      "id": "T038",
+      "token": "jeans",
+      "examples": "navy cardigan denim jeans black loafers leather bag silver necklace | blue grey denim jeans belt black loafers leather bag | black shirt grey jeans sandals bag silver choker",
+      "zh-CN": "牛仔裤",
+      "zh-TW": "牛仔褲",
+      "flag": ""
+    },
+    "T039": {
+      "id": "T039",
+      "token": "khaki",
+      "examples": "khaki shirt jacket white black pants sneakers corduroy bag | khaki hoodie black denim jeans white sneakers bag | khaki shirt ivory tulle skirt white black boots leather bag",
+      "zh-CN": "卡其色",
+      "zh-TW": "卡其色",
+      "flag": ""
+    },
+    "T040": {
+      "id": "T040",
+      "token": "knit",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | beige knit dress jacket white socks pumps bag gold necklace | green knit dress white socks beige ribbon satin hat",
+      "zh-CN": "针织",
+      "zh-TW": "針織",
+      "flag": ""
+    },
+    "T041": {
+      "id": "T041",
+      "token": "lace",
+      "examples": "blue lace camisole cardigan beige denim pants pumps bag ribbon | mint green lace camisole cardigan yellow skirt coat sandals satin | ivory lace camisole cardigan yellow pants sandals mini tote gold",
+      "zh-CN": "蕾丝",
+      "zh-TW": "蕾絲",
+      "flag": ""
+    },
+    "T042": {
+      "id": "T042",
+      "token": "lavender",
+      "examples": "lavender bra briefs lace stockings heels | frill camisole lavender lace shorts socks ribbon choker | floral lace camisole dress lavender ribbon belt cardigan stockings",
+      "zh-CN": "薰衣草色",
+      "zh-TW": "薰衣草色",
+      "flag": ""
+    },
+    "T043": {
+      "id": "T043",
+      "token": "leather",
+      "examples": "navy cardigan denim jeans black loafers leather bag silver necklace | beige shirt dress black boots leather bag silver necklace | blue grey denim jeans belt black loafers leather bag",
+      "zh-CN": "皮革包",
+      "zh-TW": "皮革包",
+      "flag": ""
+    },
+    "T044": {
+      "id": "T044",
+      "token": "loafers",
+      "examples": "navy cardigan denim jeans black loafers leather bag silver necklace | blue grey denim jeans belt black loafers leather bag | ivory cardigan white camisole black pants brown leather loafers tote",
+      "zh-CN": "乐福鞋",
+      "zh-TW": "樂福鞋",
+      "flag": ""
+    },
+    "T045": {
+      "id": "T045",
+      "token": "maxi",
+      "examples": "black ivory lace jacket maxi skirt sandals bag gold velvet | grey black maxi skirt suede sneakers leather bag | ivory black lace jacket grey maxi skirt sandals bag gold",
+      "zh-CN": "长裙",
+      "zh-TW": "長裙",
+      "flag": ""
+    },
+    "T046": {
+      "id": "T046",
+      "token": "mesh",
+      "examples": "black mesh shirt grey leather mini bag silver necklace | ivory mesh knit grey maxi skirt black sandals leather silver | white mesh shirt beige black leather mini bag silver necklace",
+      "zh-CN": "网眼布",
+      "zh-TW": "網眼布",
+      "flag": ""
+    },
+    "T047": {
+      "id": "T047",
+      "token": "midi",
+      "examples": "beige floral midi dress white socks sandals mini bag ribbon | blue ribbon chiffon camisole pink midi skirt sandals mini tote | white blouse mint green midi skirt cardigan pumps bag ribbon",
+      "zh-CN": "中长裙",
+      "zh-TW": "中長裙",
+      "flag": ""
+    },
+    "T048": {
+      "id": "T048",
+      "token": "mini",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | yellow floral camisole cardigan pink pleated mini skirt coat ivory | cream blouse ribbon ivory mini skirt shorts jacket beige tights",
+      "zh-CN": "迷你",
+      "zh-TW": "迷你",
+      "flag": ""
+    },
+    "T049": {
+      "id": "T049",
+      "token": "mint",
+      "examples": "white blouse mint green midi skirt cardigan pumps bag ribbon | mint green lace camisole cardigan yellow skirt coat sandals satin | mint green frill corset dress jacket beige tights sandals bag",
+      "zh-CN": "薄荷绿",
+      "zh-TW": "薄荷綠",
+      "flag": ""
+    },
+    "T050": {
+      "id": "T050",
+      "token": "muffler",
+      "examples": "ivory knit red corduroy skirt boots fur bag wool muffler | black wool coat grey turtleneck knit boots leather tote muffler | ivory knit grey wool black boots mini bag muffler",
+      "zh-CN": "围巾",
+      "zh-TW": "圍巾",
+      "flag": ""
+    },
+    "T051": {
+      "id": "T051",
+      "token": "navy",
+      "examples": "navy cardigan denim jeans black loafers leather bag silver necklace | navy grey pleated mini skirt shorts white socks black tights | navy knit dress white denim jacket black mini bag",
+      "zh-CN": "海军蓝",
+      "zh-TW": "海軍藍",
+      "flag": ""
+    },
+    "T052": {
+      "id": "T052",
+      "token": "necklace",
+      "examples": "beige knit dress jacket white socks pumps bag gold necklace | beige floral camisole cardigan white pants pumps mini bag necklace | green mini skirt shorts coat ivory socks sandals bag necklace",
+      "zh-CN": "项链",
+      "zh-TW": "項鍊",
+      "flag": ""
+    },
+    "T053": {
+      "id": "T053",
+      "token": "olive",
+      "examples": "olive green knit leather mini skirt black tights suede boots | olive green knit ivory skirt wool coat black boots mini | navy knit olive green denim pants leather jacket black boots",
+      "zh-CN": "橄榄绿",
+      "zh-TW": "橄欖綠",
+      "flag": ""
+    },
+    "T054": {
+      "id": "T054",
+      "token": "orange",
+      "examples": "orange turtleneck black jacket pleated pants loafers leather bag | black shirt tulle skirt orange boots leather bag | black jacket orange turtleneck leather bag",
+      "zh-CN": "橙色",
+      "zh-TW": "橘色",
+      "flag": ""
+    },
+    "T055": {
+      "id": "T055",
+      "token": "pants",
+      "examples": "beige floral camisole cardigan white pants pumps mini bag necklace | blue lace camisole cardigan beige denim pants pumps bag ribbon | mint green floral camisole cardigan pants denim jacket white socks",
+      "zh-CN": "裤子",
+      "zh-TW": "褲子",
+      "flag": ""
+    },
+    "T056": {
+      "id": "T056",
+      "token": "pink",
+      "examples": "yellow floral camisole cardigan pink pleated mini skirt coat ivory | blue ribbon chiffon camisole pink midi skirt sandals mini tote | pink floral midi dress denim jacket white socks sandals mini",
+      "zh-CN": "粉色",
+      "zh-TW": "粉紅",
+      "flag": ""
+    },
+    "T057": {
+      "id": "T057",
+      "token": "pleated",
+      "examples": "yellow floral camisole cardigan pink pleated mini skirt coat ivory | mint green knit yellow pleated mini skirt jacket white socks | blue ribbon chiffon camisole pink pleated mini skirt white socks",
+      "zh-CN": "褶皱",
+      "zh-TW": "褶皺",
+      "flag": ""
+    },
+    "T058": {
+      "id": "T058",
+      "token": "polka-dot",
+      "examples": "navy white polka-dot camisole midi dress black sandals bag silver | white black polka-dot shirt camisole denim jeans sandals brown leather | black white polka-dot shirt camisole denim jeans sandals brown leather",
+      "zh-CN": "波点",
+      "zh-TW": "波點",
+      "flag": ""
+    },
+    "T059": {
+      "id": "T059",
+      "token": "pumps",
+      "examples": "beige knit dress jacket white socks pumps bag gold necklace | beige floral camisole cardigan white pants pumps mini bag necklace | blue lace camisole cardigan beige denim pants pumps bag ribbon",
+      "zh-CN": "高跟鞋",
+      "zh-TW": "高跟鞋",
+      "flag": ""
+    },
+    "T060": {
+      "id": "T060",
+      "token": "purple",
+      "examples": "beige purple pants black leather bag loafers navy | purple bra briefs lace black stockings heels | purple bra briefs mesh black stockings satin heels silver choker",
+      "zh-CN": "紫色",
+      "zh-TW": "紫色",
+      "flag": ""
+    },
+    "T061": {
+      "id": "T061",
+      "token": "red",
+      "examples": "ivory shorts black tights red bag | grey black shorts tights red bag | red knit navy pleated skirt loafers bag gold ribbon choker",
+      "zh-CN": "红色",
+      "zh-TW": "紅色",
+      "flag": ""
+    },
+    "T062": {
+      "id": "T062",
+      "token": "ribbon",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | beige mini dress jacket ivory socks white sneakers bag ribbon | beige floral midi dress white socks sandals mini bag ribbon",
+      "zh-CN": "丝带",
+      "zh-TW": "絲帶",
+      "flag": ""
+    },
+    "T063": {
+      "id": "T063",
+      "token": "robe",
+      "examples": "lace satin camisole red shorts stockings robe | satin white lace robe stockings | lace satin camisole shorts stockings robe",
+      "zh-CN": "长袍",
+      "zh-TW": "長袍",
+      "flag": ""
+    },
+    "T064": {
+      "id": "T064",
+      "token": "sandals",
+      "examples": "beige floral midi dress white socks sandals mini bag ribbon | blue ribbon chiffon camisole pink midi skirt sandals mini tote | green ribbon shirt dress beige tights sandals mini bag gold",
+      "zh-CN": "凉鞋",
+      "zh-TW": "涼鞋",
+      "flag": ""
+    },
+    "T065": {
+      "id": "T065",
+      "token": "satin",
+      "examples": "ivory mini dress white socks sneakers satin ribbon gold necklace | mint green lace camisole cardigan yellow skirt coat sandals satin | green knit dress white socks beige ribbon satin hat",
+      "zh-CN": "缎子",
+      "zh-TW": "綢",
+      "flag": ""
+    },
+    "T066": {
+      "id": "T066",
+      "token": "scarf",
+      "examples": "brown mini shirt dress socks leather boots bag scarf | burgundy knit pants black tights boots brown bag scarf | knit cardigan pleated mini skirt black tights boots bag scarf",
+      "zh-CN": "围巾",
+      "zh-TW": "圍巾",
+      "flag": ""
+    },
+    "T067": {
+      "id": "T067",
+      "token": "shirt",
+      "examples": "green ribbon shirt dress beige tights sandals mini bag gold | yellow ribbon shirt dress denim jacket ivory socks white sneakers | ribbon shirt dress white socks beige mini bag choker",
+      "zh-CN": "衬衫",
+      "zh-TW": "襯衫",
+      "flag": ""
+    },
+    "T068": {
+      "id": "T068",
+      "token": "shorts",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | green mini skirt shorts coat ivory socks sandals bag necklace | green blouse ribbon ivory mini skirt shorts denim jacket white",
+      "zh-CN": "短裤",
+      "zh-TW": "短褲",
+      "flag": ""
+    },
+    "T069": {
+      "id": "T069",
+      "token": "silver",
+      "examples": "navy cardigan denim jeans black loafers leather bag silver necklace | beige shirt dress black boots leather bag silver necklace | black shirt grey jeans sandals bag silver choker",
+      "zh-CN": "银色",
+      "zh-TW": "銀色",
+      "flag": ""
+    },
+    "T070": {
+      "id": "T070",
+      "token": "skirt",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | yellow floral camisole cardigan pink pleated mini skirt coat ivory | cream blouse ribbon ivory mini skirt shorts jacket beige tights",
+      "zh-CN": "短裙",
+      "zh-TW": "短裙",
+      "flag": ""
+    },
+    "T071": {
+      "id": "T071",
+      "token": "sneakers",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | beige mini dress jacket ivory socks white sneakers bag ribbon | yellow ribbon shirt dress denim jacket ivory socks white sneakers",
+      "zh-CN": "运动鞋",
+      "zh-TW": "運動鞋",
+      "flag": ""
+    },
+    "T072": {
+      "id": "T072",
+      "token": "socks",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | beige mini dress jacket ivory socks white sneakers bag ribbon | beige floral midi dress white socks sandals mini bag ribbon",
+      "zh-CN": "袜子",
+      "zh-TW": "襪子",
+      "flag": ""
+    },
+    "T073": {
+      "id": "T073",
+      "token": "stockings",
+      "examples": "black knit denim shorts stockings sandals bag silver necklace | white knit denim mini skirt black stockings loafers bag | black knit denim mini skirt stockings loafers bag",
+      "zh-CN": "丝袜",
+      "zh-TW": "絲襪",
+      "flag": ""
+    },
+    "T074": {
+      "id": "T074",
+      "token": "suede",
+      "examples": "knit vest white shirt beige brown suede loafers mini bag | grey black maxi skirt suede sneakers leather bag | grey gold knit pants ivory brown suede mini bag",
+      "zh-CN": "麂皮",
+      "zh-TW": "麂皮",
+      "flag": ""
+    },
+    "T075": {
+      "id": "T075",
+      "token": "sunglasses",
+      "examples": "blue white shirt black jeans leather belt tote sunglasses | blue shirt dress black sandals leather tote sunglasses | black camisole khaki pants belt sneakers bag silver choker sunglasses",
+      "zh-CN": "墨镜",
+      "zh-TW": "太陽眼鏡",
+      "flag": ""
+    },
+    "T076": {
+      "id": "T076",
+      "token": "sweater",
+      "examples": "grey knit sweater navy pleated midi skirt black boots leather | ivory knit sweater brown pleated midi skirt black boots leather | silver grey knit sweater ivory mini skirt black tights suede",
+      "zh-CN": "毛衣",
+      "zh-TW": "毛衣",
+      "flag": ""
+    },
+    "T077": {
+      "id": "T077",
+      "token": "swimsuit",
+      "examples": "blue swimsuit jacket sneakers mesh bag | blue swimsuit ribbon skirt sandals hat bag | swimsuit jacket sneakers mesh bag",
+      "zh-CN": "比基尼",
+      "zh-TW": "比基尼",
+      "flag": ""
+    },
+    "T078": {
+      "id": "T078",
+      "token": "tights",
+      "examples": "cream blouse ribbon ivory mini skirt shorts jacket beige tights | green ribbon shirt dress beige tights sandals mini bag gold | blue frill knit ivory skirt beige tights pumps satin ribbon",
+      "zh-CN": "丝袜",
+      "zh-TW": "絲襪",
+      "flag": ""
+    },
+    "T079": {
+      "id": "T079",
+      "token": "tote",
+      "examples": "blue ribbon chiffon camisole pink midi skirt sandals mini tote | yellow floral midi dress beige tights sandals mini tote gold | ivory knit blue pleated midi skirt sandals mini tote necklace",
+      "zh-CN": "托特包",
+      "zh-TW": "托特包",
+      "flag": ""
+    },
+    "T080": {
+      "id": "T080",
+      "token": "tulle",
+      "examples": "black shirt tulle skirt orange boots leather bag | khaki shirt ivory tulle skirt white black boots leather bag | white ribbon tulle skirt gold jacket blue pleated grey sneakers",
+      "zh-CN": "薄纱",
+      "zh-TW": "薄紗",
+      "flag": ""
+    },
+    "T081": {
+      "id": "T081",
+      "token": "turtleneck",
+      "examples": "orange turtleneck black jacket pleated pants loafers leather bag | black jacket orange turtleneck leather bag | grey jacket white turtleneck black leather bag",
+      "zh-CN": "高领毛衣",
+      "zh-TW": "高領毛衣",
+      "flag": ""
+    },
+    "T082": {
+      "id": "T082",
+      "token": "velvet",
+      "examples": "black ivory lace jacket maxi skirt sandals bag gold velvet | navy lace velvet mini dress leather jacket socks ribbon brown | burgundy lace velvet mini dress beige coat socks suede boots",
+      "zh-CN": "天鹅绒",
+      "zh-TW": "絲絨",
+      "flag": ""
+    },
+    "T083": {
+      "id": "T083",
+      "token": "vest",
+      "examples": "knit vest white shirt beige brown suede loafers mini bag | grey knit vest white black tote | knit vest black brown tote",
+      "zh-CN": "背心",
+      "zh-TW": "背心",
+      "flag": ""
+    },
+    "T084": {
+      "id": "T084",
+      "token": "white",
+      "examples": "ivory frill knit denim mini skirt coat socks white sneakers | beige mini dress jacket ivory socks white sneakers bag ribbon | beige floral midi dress white socks sandals mini bag ribbon",
+      "zh-CN": "白色",
+      "zh-TW": "白色",
+      "flag": ""
+    },
+    "T085": {
+      "id": "T085",
+      "token": "wool",
+      "examples": "olive green knit ivory skirt wool coat black boots mini | khaki knit navy leather mini skirt wool coat black tights | brown mini shirt dress wool coat tights black boots bag",
+      "zh-CN": "羊毛",
+      "zh-TW": "羊毛",
+      "flag": ""
+    },
+    "T086": {
+      "id": "T086",
+      "token": "yellow",
+      "examples": "yellow floral camisole cardigan pink pleated mini skirt coat ivory | yellow ribbon shirt dress denim jacket ivory socks white sneakers | mint green lace camisole cardigan yellow skirt coat sandals satin",
+      "zh-CN": "黄色",
+      "zh-TW": "黃色",
+      "flag": ""
+    }
+  }
+}

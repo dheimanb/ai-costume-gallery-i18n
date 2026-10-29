@@ -1,0 +1,16 @@
+{
+  "task": "en-token-zh",
+  "time": "2026-10-30 03:10:34 HKT",
+  "model": "qwen3:8b",
+  "base": "http://127.0.0.1:11434",
+  "input": "E:\\costume-staging\\i18n\\task1\\keyword-token-input.csv",
+  "output": "E:\\costume-staging\\i18n\\task1\\keyword-token-dict.csv",
+  "input_rows": 86,
+  "output_rows": 86,
+  "errors_during_run": 0,
+  "elapsed_sec": 24.69,
+  "validate_pass": true,
+  "validate_errors": [],
+  "flagged_rows": 1,
+  "filled_both": 85
+}
