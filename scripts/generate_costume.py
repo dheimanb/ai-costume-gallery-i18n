@@ -427,6 +427,10 @@ a{color:var(--accent-dark)}
 .search-clear{border:0;background:transparent;cursor:pointer;color:var(--text-2);font-size:16px;padding:4px}
 .reset-btn{height:44px;padding:0 14px;border:1px solid var(--line);border-radius:11px;background:var(--surface);font:inherit;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
 .tag-row{margin-top:12px}
+.tag-wrap{padding:14px 0 4px}
+.tag-toggle{display:none;width:100%;align-items:center;justify-content:space-between;border:1px solid var(--line-strong);border-radius:11px;background:var(--surface);padding:10px 14px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;color:inherit}
+.tag-chev{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:6px solid currentColor;transition:transform .15s;flex:none}
+.tag-wrap.open .tag-chev{transform:rotate(180deg)}
 .tag-label{font-size:11px;font-weight:700;color:var(--text-2);display:block;margin-bottom:7px}
 .tag-cloud{display:flex;gap:7px;flex-wrap:wrap}
 .tag{border:1px solid #dcdcf5;background:var(--accent-soft);color:var(--accent-dark);border-radius:8px;padding:5px 10px;font:inherit;font-size:12px;font-weight:600;cursor:pointer}
@@ -481,7 +485,7 @@ dialog.info-dialog::backdrop{background:rgba(15,18,28,.55)}
 .info-close{border:0;background:transparent;cursor:pointer;font-size:16px}
 .info-content{padding:18px;line-height:1.8;white-space:pre-line}
 @media (max-width:900px){.hero{grid-template-columns:1fr}.viewer-panel{grid-template-columns:1fr}.footer-inner{display:block}.footer-links{justify-content:flex-start;margin-top:16px}}
-@media (max-width:640px){.hero h1{font-size:27px}.hero-stats{gap:18px}.search-row{flex-wrap:wrap}}
+@media (max-width:640px){.hero h1{font-size:27px}.hero-stats{gap:18px}.search-row{flex-wrap:wrap}.tag-toggle{display:flex}.tag-wrap .tag-row{display:none}.tag-wrap.open .tag-row{display:block}}
 </style>
 </head>
 <body>
@@ -525,13 +529,17 @@ dialog.info-dialog::backdrop{background:rgba(15,18,28,.55)}
       </label>
       <button class="reset-btn" id="resetFilters" type="button" data-i18n="reset_filters">Reset filters</button>
     </div>
-    <div class="tag-row">
-      <span class="tag-label" data-i18n="filter_tags_label">Keyword tags</span>
-      <div class="tag-cloud" id="tagCloud"></div>
-    </div>
     <div class="active-filters" id="activeFilters"></div>
   </div>
 </section>
+
+<div class="shell tag-wrap" id="tagWrap">
+  <button type="button" class="tag-toggle" id="tagToggle" aria-expanded="false" aria-controls="tagCloud"><span data-i18n="filter_tags_label">Keyword tags</span><span class="tag-chev" aria-hidden="true"></span></button>
+  <div class="tag-row">
+    <span class="tag-label" data-i18n="filter_tags_label">Keyword tags</span>
+    <div class="tag-cloud" id="tagCloud"></div>
+  </div>
+</div>
 
 <main class="shell">
   <p class="result-count" id="resultCount"></p>
@@ -809,6 +817,10 @@ $('#resetFilters').addEventListener('click', () => {
   $('#searchClear').hidden = true;
   state.shown = PAGE_SIZE;
   renderAll();
+});
+$('#tagToggle').addEventListener('click', () => {
+  const open = $('#tagWrap').classList.toggle('open');
+  $('#tagToggle').setAttribute('aria-expanded', String(open));
 });
 $('#loadMore').addEventListener('click', () => { state.shown += PAGE_SIZE; renderGrid(); });
 
