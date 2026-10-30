@@ -485,7 +485,7 @@ dialog.info-dialog::backdrop{background:rgba(15,18,28,.55)}
 .info-close{border:0;background:transparent;cursor:pointer;font-size:16px}
 .info-content{padding:18px;line-height:1.8;white-space:pre-line}
 @media (max-width:900px){.hero{grid-template-columns:1fr}.viewer-panel{grid-template-columns:1fr}.footer-inner{display:block}.footer-links{justify-content:flex-start;margin-top:16px}}
-@media (max-width:640px){.hero h1{font-size:27px}.hero-stats{gap:18px}.search-row{flex-wrap:wrap}.tag-toggle{display:flex}.tag-wrap .tag-row{display:none}.tag-wrap.open .tag-row{display:block}}
+@media (max-width:640px){.hero h1{font-size:27px}.hero-stats{gap:18px}.search-row{flex-wrap:wrap}.tag-toggle{display:flex}.tag-wrap .tag-row{display:none}.tag-wrap.open .tag-row{display:block}.topbar{flex-wrap:wrap;gap:10px}.brand{min-width:0}.brand-copy strong{white-space:nowrap}.top-actions{justify-content:flex-start;min-width:0}.segmented{max-width:100%}.segmented button{white-space:nowrap;padding:7px 9px;font-size:12px}}
 </style>
 </head>
 <body>
