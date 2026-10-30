@@ -408,7 +408,6 @@ a{color:var(--accent-dark)}
 .action-btn{display:inline-flex;align-items:center;gap:6px;height:36px;padding:0 12px;border:1px solid var(--line);border-radius:9px;background:var(--surface);color:var(--text-2);font-size:13px;font-weight:600;text-decoration:none;cursor:pointer}
 .action-btn:hover{border-color:var(--accent);color:var(--accent)}
 .hero{display:grid;grid-template-columns:1fr auto;gap:24px;padding:26px 0 30px;align-items:end}
-.eyebrow{margin:0 0 8px;color:var(--accent-dark);font-size:12px;font-weight:800;letter-spacing:.14em}
 .hero h1{margin:0;font-size:34px;line-height:1.15;letter-spacing:-.01em}
 .hero-tagline{display:block;font-size:16px;font-weight:600;color:var(--text-2);margin-top:6px}
 .hero-desc{margin:12px 0 0;color:var(--text-2);max-width:640px}
@@ -416,7 +415,7 @@ a{color:var(--accent-dark)}
 .stat strong{display:block;font-size:26px}
 .stat span{font-size:12px;color:var(--text-2)}
 .controls{position:sticky;top:0;z-index:30;background:rgba(18,19,29,.94);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
-.controls-inner{padding:14px 0}
+.controls-inner{padding:14px 20px}
 .cat-chips{display:flex;gap:8px;flex-wrap:wrap}
 .chip{border:1px solid var(--line-strong);background:var(--surface);border-radius:99px;padding:7px 13px;font:inherit;font-size:13px;font-weight:600;cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
@@ -507,7 +506,6 @@ dialog.info-dialog::backdrop{background:rgba(15,18,28,.55)}
   </div>
   <div class="shell hero">
     <div>
-      <p class="eyebrow">COSTUME-DB-01</p>
       <h1><span data-i18n="site_title">Costume Collection</span><span class="hero-tagline" data-i18n="hero_tagline">Find every outfit for your next render</span></h1>
       <p class="hero-desc" data-i18n="openchat_note">Learn effective ways to use this collection (including uncensored-AI use) in the open chat.</p>
     </div>
